@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="text/x-cucumber">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Cucumber feature plain text file</comment>
+  <glob pattern="*.feature"/>
+</mime-type>
