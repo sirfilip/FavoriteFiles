@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="text/x-yaml">
-  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
-  <comment>YAML Ain't Markup Language</comment>
-  <glob pattern="*.yml"/>
-  <glob pattern="*.yaml"/>
-</mime-type>
