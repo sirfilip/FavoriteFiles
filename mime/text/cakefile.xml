@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="text/cakefile">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <sub-class-of type="text/plain"/>
+  <comment>CoffeeScript program</comment>
+  <glob pattern="Cakefile"/>
+  <glob pattern="cakefile"/>
+  <glob weight="10" pattern="Cakefile.*"/>
+</mime-type>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-ruby">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <glob pattern="*.rjs"/>
+  <glob pattern="*.gemspec"/>
+  <glob pattern="Rakefile"/>
+  <glob pattern="Gemfile"/>
+  <glob pattern="Capfile"/>
+  <glob pattern="Thorfile"/>
+  <glob pattern="*.thor"/>
+  <glob pattern="*.ru"/>
+  <glob pattern="*.rake"/>
+  <glob pattern="*.rxml"/>
+  <glob pattern="*.builder"/>
+  <comment>Ruby API Builder Language template</comment>
+  <glob pattern="*.rabl"/>
+</mime-type>
